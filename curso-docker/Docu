@@ -1,0 +1,10 @@
+##########################
+Docker wiki.
+Seguimiento de logs
+docker logs -f nombrecontedor.
+listar maquinas
+docker ps - Completo -a
+docker stop
+
+
+
